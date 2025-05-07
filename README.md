@@ -1,6 +1,6 @@
 # Image Captioning Project
 
-This project implements an image-to-caption generator using a CNN-RNN architecture (ResNet50 + LSTM) to generate descriptive captions for images. The model is trained on the Flickr8k dataset.
+This project implements an image-to-caption generator using a CNN-RNN architecture (ResNet50 + LSTM) to generate descriptive captions for images. The model is trained on the Flickr8k dataset, which is available at [Kaggle](https://www.kaggle.com/datasets/adityajn105/flickr8k).
 
 ## Project Structure
 
