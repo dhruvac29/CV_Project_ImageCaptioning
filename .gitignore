@@ -27,11 +27,12 @@ var/
 venv/
 ENV/
 
-# Dataset files (add these if you don't want to track them)
-# Uncomment if you want to exclude these files completely
-# *.h5
-# *.pkl
-# dataset/
+# Large model files and datasets
+*.h5
+*.pkl
+features.pkl
+best_model.h5
+dataset/
 
 # OS specific
 .DS_Store
